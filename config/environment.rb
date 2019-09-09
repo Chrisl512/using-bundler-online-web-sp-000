@@ -1,1 +1,1 @@
-require 'environment'
+require 'bundler/setup'
