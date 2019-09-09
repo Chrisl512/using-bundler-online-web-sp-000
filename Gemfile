@@ -6,4 +6,5 @@ group :development do
 gem "pry"
 end
 
-gem 'hashie', git: 'https://rubygems.org/gems/hashie'
+
+gem 'hashie', '~> 3.6'
